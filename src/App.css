@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+span{
+  font-weight: bold;
+}
+span:hover{
+  color: gray;
+}
+body{
+  transition: all 0.5s ease;
+}
